@@ -36,7 +36,8 @@
 - Family Laws  
 - Contract Laws  
 - Clinical Legal Education  
-- Alternative Dispute Resolution  
+- Alternative Dispute Resolution
+- Artificial Intelligence in the Legal Profession  
 
 ---
 
