@@ -25,7 +25,8 @@
 - Insurance Law  
 - Land Laws  
 - Alternative Dispute Resolution (ADR)  
-- Public Interest Litigation (PIL)  
+- Public Interest Litigation (PIL)
+- Artificial Intelligence for Legal Professionals 
 
 ---
 
