@@ -1,18 +1,4 @@
-# Courses, Workshops & FDPs
-
-## Workshops
-- Dispute Transfiguration Processing, SASTRA, 2018  
-- Arbitration Practice of KFCRI, 2019  
-- Mediation (MediateGuru), Oct 2020  
-- UN Success and Future Challenges, Oct 2020  
-- Intellectual Property Rights, Marian College, Oct 2020  
-- ADR in Legal Education, ICFAI University, Dec 2020  
-- Best Practices in Higher Education – NAAC, May 2021  
-- Family Dispute Mediation, IILM University, Oct 2021  
-- International Mediation Training Programme, USA & Pune, Nov–Dec 2021  
-- Draft Mediation Bill 2021, Sathyabama University, Jan 2022  
-- Generative AI & Prompt Engineering, HCL Tech, Jan–May 2025  
-- AI in Legal Domain, NIT Trichy, July 2025  
+#  FDPs & Courses
 
 ---
 
