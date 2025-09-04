@@ -1,13 +1,4 @@
----
-layout: page
-title: "Personal Details"
----
 
-# Personal Details
-
-<img src="assets/images/photo.jpg" alt="Dr. C.A. Sathiya" width="200" style="border-radius: 15px; box-shadow: 2px 2px 10px rgba(0,0,0,0.3);">
-
----
 
 ## Basic Information
 - **Name:** Dr. C.A. Sathiya  
@@ -31,4 +22,4 @@ title: "Personal Details"
 
 
 
-**[C.A. Sathiya]**
+
